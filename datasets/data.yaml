@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Cellphone_calling', 'Cellphone_texting', 'Person_with_seatbelt', 'Person_without_seatbelt']
+
+roboflow:
+  workspace: hcl-technologies-ltd
+  project: seatbelt-cellphone-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/hcl-technologies-ltd/seatbelt-cellphone-detection/dataset/2
