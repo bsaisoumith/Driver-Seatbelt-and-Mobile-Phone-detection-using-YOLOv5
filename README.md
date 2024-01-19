@@ -16,6 +16,22 @@ The aim is to enhance driver safety by providing real-time alerts or monitoring.
 - OpenCV (`pip install opencv-python`)
 - YOLOv5 (install using the instructions provided in the [YOLOv5 GitHub repository](https://github.com/ultralytics/yolov5))
 
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/bsaisoumith/Driver-Seatbelt-and-Mobile-Phone-detection-using-YOLOv5
+
+2. Navigate to the project directory:
+   cd Driver-Seatbelt-and-Mobile-Phone-detection-using-YOLOv5
+   
+4. Install the required dependencies:
+   pip install -r requirements.txt
+
+5. Download the YOLOv5 pre-trained weights:
+   python download_weights.py
+
 ## Usage
 
 To detect driver seatbelt and mobile phone usage in an image, run the following command:
