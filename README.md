@@ -1,4 +1,4 @@
-Driver Seatbelt and Mobile Phone Detection using YOLOv5
+## Driver Seatbelt and Mobile Phone Detection using YOLOv5
 
 This project utilizes YOLOv5, a state-of-the-art object detection algorithm, 
 to detect whether a driver is wearing a seatbelt and whether they are using a mobile phone while driving. 
