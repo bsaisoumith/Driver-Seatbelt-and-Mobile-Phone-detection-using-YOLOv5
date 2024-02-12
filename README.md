@@ -39,11 +39,11 @@ The aim is to enhance driver safety by providing real-time alerts or monitoring.
 
 - To detect driver seatbelt and mobile phone usage in an image, run the following command: 
   ```bash
-  detect.py --source path/to/your/image.jpg
+  Python detect.py --source path/to/your/image.jpg
 
 - To detect in a video stream run:
   ```bash
-  detect.py --source 0
+  Python detect.py --source 0
 
 ## Customization
 If you want to train the model on your custom dataset, refer to the YOLOv5 documentation for training instructions.
