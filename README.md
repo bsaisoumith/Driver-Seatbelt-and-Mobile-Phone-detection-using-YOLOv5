@@ -13,7 +13,9 @@ The aim is to enhance driver safety by providing real-time alerts or monitoring.
 
 - Python 3.x
 - PyTorch (refer to the [official PyTorch website](https://pytorch.org/) for installation instructions)
-- OpenCV (`pip install opencv-python`)
+- OpenCV
+  ```bash
+  pip install opencv-python
 - YOLOv5 (install using the instructions provided in the [YOLOv5 GitHub repository](https://github.com/ultralytics/yolov5))
 
 ## Installation
